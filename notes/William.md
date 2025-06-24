@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-24T11:42:50.580Z'
+modified: '2025-06-24T12:20:14.702Z'
 ---
 
 # Apuntes de clase/William
@@ -36,6 +36,7 @@ modified: '2025-06-24T11:42:50.580Z'
 - git add notes/Apuntes.md archivo individual
 - git clone "repo" clonar repositorio
 - git commit -m "mensaje"  guardar cambios
+- git commit -a -m "mensaje" -> añadir y guardara a la vez
 - git push subir cambios
 - git pull descargar version repo remoto (en local)
 
@@ -44,9 +45,19 @@ modified: '2025-06-24T11:42:50.580Z'
   - git remote -v -> ver repositorios remotos
 
 - git fetch -> descarga cambios sin fusionar
+- git merge -> fusiona cambios
+
+## Ramas git
+
+- git branch "nombre rama"-> crea una rama
+- git checkout "nombre"-> cambiar de ramas
+- git merge rama -> fusiona ramas
+    pasos para fusionar:
+    - git checkout
+    - git merge rama_a_fusionar
+    - git commit -m "Rama Fusionada"
 
 
+## Roles proyectos
 
-    
-    - 
 
