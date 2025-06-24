@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-24T11:35:34.685Z'
+modified: '2025-06-24T11:42:50.580Z'
 ---
 
 # Apuntes de clase/William
@@ -38,6 +38,12 @@ modified: '2025-06-24T11:35:34.685Z'
 - git commit -m "mensaje"  guardar cambios
 - git push subir cambios
 - git pull descargar version repo remoto (en local)
+
+- git remote -> ver repositorios remotos
+  - git remote add -> Añadir repo remoto
+  - git remote -v -> ver repositorios remotos
+
+- git fetch -> descarga cambios sin fusionar
 
 
 
