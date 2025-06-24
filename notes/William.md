@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-24T08:47:28.946Z'
+modified: '2025-06-24T09:59:48.430Z'
 ---
 
 # Apuntes de clase/William
@@ -20,6 +20,7 @@ modified: '2025-06-24T08:47:28.946Z'
     - Descargar VSC e instalar
     - Por extensiones podemos cambiar idioma (spanish)
     - Ahora se instalan extensiones: Extension pack for java
+    - 
     
     - 
 
