@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-24T12:20:14.702Z'
+modified: '2025-06-25T07:09:07.380Z'
 ---
 
 # Apuntes de clase/William
@@ -59,5 +59,9 @@ modified: '2025-06-24T12:20:14.702Z'
 
 
 ## Roles proyectos
+
+## Conte
+
+
 
 
