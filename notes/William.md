@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-25T07:22:09.715Z'
+modified: '2025-06-27T08:21:21.460Z'
 ---
 
 # Apuntes de clase/William
@@ -61,6 +61,33 @@ modified: '2025-06-25T07:22:09.715Z'
 ## Roles proyectos
 
 ## linux mint
+
+Se prepara una partición de windowa para poder realizar a instalación de linux
+**crear y formartear particiones del disco duro**
+
+- Administración de disco
+- Pinchar SSD(c.)...con boton derecho se busca reducir volumen
+- reducimos el volumen...usamos 100000 Mb. Se hizo en los Gb no asignados.
+- se apaga y se reinicio la bios
+- se va a boot...con F6 se selecciona lo que se requiere primero...se guarda con F10
+
+- Luego se arranca desde el pendrive...se arranca con **linux mint 22.1 cinamon...**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
