@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-27T11:46:12.133Z'
+modified: '2025-06-27T12:15:19.168Z'
 ---
 
 # Apuntes de clase/William
@@ -93,6 +93,11 @@ PAra hacer comentario...control, mayus,7
 <head>
 <body>
     <p> nivel 2
+
+
+marcados
+
+
 
 
 
