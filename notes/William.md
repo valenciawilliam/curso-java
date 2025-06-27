@@ -1,10 +1,11 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-27T11:37:40.765Z'
+modified: '2025-06-27T11:46:12.133Z'
 ---
 
 # Apuntes de clase/William
+
 
 ## Instalar Java y VSC
 -Instalar Java
