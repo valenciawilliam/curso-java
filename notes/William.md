@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-27T08:21:21.460Z'
+modified: '2025-06-27T11:37:40.765Z'
 ---
 
 # Apuntes de clase/William
@@ -72,6 +72,28 @@ Se prepara una partición de windowa para poder realizar a instalación de linux
 - se va a boot...con F6 se selecciona lo que se requiere primero...se guarda con F10
 
 - Luego se arranca desde el pendrive...se arranca con **linux mint 22.1 cinamon...**
+
+
+## html
+
+archivo...agregar carpeta al area de trabajo...selecciona la carpeta...
+
+autoguardado desde archivo
+
+Tener el validador siempre a mano
+
+Los id son identifgicadores...en la misma pagina por ejemplo, solo debe haber un solo parrafo con p1
+
+PAra hacer comentario...control, mayus,7
+
+- Etiquetas
+
+<html> nivel 1
+<head>
+<body>
+    <p> nivel 2
+
+
 
 
 
