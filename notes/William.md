@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-27T12:15:19.168Z'
+modified: '2025-06-30T07:39:12.261Z'
 ---
 
 # Apuntes de clase/William
@@ -96,6 +96,11 @@ PAra hacer comentario...control, mayus,7
 
 
 marcados
+
+
+## para pasar lo hecho por linux al entorno windows
+
+se hace desde el git bush
 
 
 
