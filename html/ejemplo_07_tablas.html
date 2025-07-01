@@ -1,14 +1,163 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tablas</title>
 </head>
+
 <body>
-   
 
 
+    <h2>Tabla de curso</h2>
+    <style>
+        th,
+        td {
+            border: 1px solid blue
+        }
+    </style>
+    <!-- table>tr>th*4 -->
+
+    <table>
+
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Horas</th>
+                <th>Plazas</th>
+                <th>Horarios</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>HTML5</td>
+                <td colspan="2"><center>20</center></td>
+               
+                <td>09:00-13:00</td>
+            </tr>
+            <tr>
+                <td>CSS3</td>
+                <td rowspan="2"><center>40</center></td>
+                <td><center>15</center></td>
+                <td rowspan="2">16:00-20:00</td>
+            </tr>
+            <tr>
+                <td>Usabilidad</td>
+                
+                <td><center>10</center></td>
+                
+            </tr>
+
+            <tr>
+                <td>AJAX</td>
+                <td><center>60</center></td>
+                <td><center>20</center></td>
+                <td>08:30-12:30</td>
+            </tr>
+        </tbody>
+
+    </table>
+
+<table>
+    <tr>
+        <th colspan="4"><center>Animales en peligro de extinción</center></th>
+        
+    </tr>
+    <tr>
+        <th>Nombres</th>
+        <th>Cabeza</th>
+        <th>previsión 2010</th>
+        <th>previsión 2020</th>
+    </tr>
+    <tr>
+        <th><center>Ballena</center></th>
+        <th><center>6000</center></th>
+        <th><center>4000</center></th>
+        <th><center>1500</center></th>
+    </tr>
+    <tr>
+        <th><center>Oso pardo</center></th>
+        <th><center>50</center></th>
+        <th colspan="2" rowspan="2"><center>0</center></th>
+        
+    </tr>
+    <tr>
+        <th><center>Lince</center></th>
+        <th><center>10</center></th>
+        
+    </tr>
+    <tr>
+        <th><center>Tigre</center></th>
+        <th><center>300</center></th>
+        <th colspan="2"><center>210</center></th>
+        
+    </tr>
+</table>
+
+
+<table>
     
+    <tr>
+        <th colspan="2"><center>climas de America del Sur</center></th>
+        
+    </tr>
+    <tr>
+        <th > <table>
+            <th><center>Parte de
+arriba de
+América del
+Sur. Países
+como:</center></th>
+            <th> <table>
+                <tr>
+                    <th>Venezuela</th>
+                </tr>
+                <tr>
+                    <th>Colombia</th>
+                </tr>
+                <tr>
+                    <th>Ecuador</th>
+                </tr>
+                <tr>
+                    <th>Perú</th>
+                </tr>
+            </table>
+
+
+            </th>
+        <th > <table>
+            <th><center>Parte de abajo de America del sur. Países
+como:</center></th>
+            <th> <table>
+                <tr>
+                    <th>Argentina</th>
+                </tr>
+                <tr>
+                    <th>Chile</th>
+                </tr>
+                <tr>
+                    <th>Uruguay</th>
+                </tr>
+                <tr>
+                    <th>Paraguay</th>
+                </tr>
+            </table>
+
+
+            </th>
+    
+
+            
+    </tr>
+
+
+
+
+     
+</table>
+
 </body>
+
 </html>
