@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-06-30T08:31:17.478Z'
+modified: '2025-07-01T10:27:02.912Z'
 ---
 
 # Apuntes de clase/William
@@ -116,6 +116,11 @@ ul>li*5{Elemento 1.$} #Ejemplo#
 
 
 ul>li*7
+
+
+## tablas en html
+
+
 
 
 
