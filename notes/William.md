@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-07-02T11:59:29.159Z'
+modified: '2025-07-02T12:00:38.324Z'
 ---
 
 # Apuntes de clase/William
@@ -26,6 +26,7 @@ instalacion en linux
 sudo apt install virtualbox (instala version 7.0.16)
 
 - VMWare
+- ISO puppy linux
 
 ## IDES
 - Para Markdown: Notable
