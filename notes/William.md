@@ -1,7 +1,7 @@
 ---
 title: Apuntes de clase/William
 created: '2025-06-24T08:39:55.185Z'
-modified: '2025-07-01T10:27:02.912Z'
+modified: '2025-07-02T07:03:30.641Z'
 ---
 
 # Apuntes de clase/William
@@ -120,7 +120,7 @@ ul>li*7
 
 ## tablas en html
 
-
+mirar como se usa el thead, tbody, tfoot
 
 
 
