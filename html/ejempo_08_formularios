@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+
+<form action="" method="post">
+
+<!-- Emmet: label+input:text
+for -> id y el name ->varible -->
+
+    <fieldset>
+        <label for="usuario">Usuario</label>
+        <input type="text" name="" id="usuario"><br>
+        <labe for="clave">Contraseña:</labe>
+        <input type="password" name="clave" id="clave">
+        <label for="fechanac">Nacimiento:</label>
+        <input type="date" name="fechanac" id="fechanac"><br>
+    </fieldset>
+<input type="submit" value="Enviar">
+</form>
+
+
+
+</body>
+</html>
