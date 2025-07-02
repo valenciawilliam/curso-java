@@ -21,7 +21,43 @@ for -> id y el name ->varible -->
         <label for="fechanac">Nacimiento:</label>
         <input type="date" name="fechanac" id="fechanac"><br>
     </fieldset>
+
+<fieldset>
+
+    <label for="codpostal">Codigo Postal</label>
+    <input type="number" name="codpostal" id="codpostal"
+    min="01000" max="52010"><br>
+    
+    
+    <label for="correo">Correro Electrónico</label>
+    <input type="email" name="correo" id="correo" required> <br>
+
+    <label for="telefono">Número telefónico</label>
+    <input type="tel" name="telefono" id="telefono">
+
+</fieldset>
+<fieldset>
+    <label for="comentario">Comemtarios</label>
+    <textarea name="comentario" id="comentario" cols="30" rows="10"></textarea><br>
+
+    <label for="provincia">Provincia</label>
+    <select name="provincia" id="provincia">
+        <option disabled selected>Elige provincia</option>
+
+        <optgroup label="Andalucia">
+            <option value="se">Granada</option>
+            <option value="gr">Sevilla</option>
+            <option value="ca">Cádiz</option>
+        </optgroup>
+        
+        <option value="ba">Badajoz</option>
+    </select>
+
+</fieldset>
+
 <input type="submit" value="Enviar">
+<input type="reset" value = "Borrar datos">
+
 </form>
 
 
