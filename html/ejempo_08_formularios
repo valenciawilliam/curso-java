@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formularios</title>
+ 
 </head>
 <body>
 
@@ -55,11 +56,32 @@ for -> id y el name ->varible -->
 
 </fieldset>
 
+<fieldset>
+    <p>Seleccione Género:</p>
+    <input type="radio" name="genero" id="mujer" value="mujer">
+    <label for="mujer">mujer</label><br>
+    <input type="radio" name="genero" id="hombre" value="hombre">
+    <label for="hombre">hombre</label><br>
+
+    <p>Interéses</p>
+<!-- (input:checkbox+label)*3 -->
+
+<input type="checkbox" name="intereses[]" id="deporte" value="deporte">
+<label for="deporte">deporte</label><br>
+<input type="checkbox" name="intereses[]" id="informatica" value="informatica">
+<label for="informatica">informatica</label><br>
+<input type="checkbox" name="intereses[]" id="musica" value="musica" checked="checked">
+<label for="musica">musica</label><br>
+
+
+</fieldset>
+
+
+
 <input type="submit" value="Enviar">
 <input type="reset" value = "Borrar datos">
 
 </form>
-
 
 
 </body>
