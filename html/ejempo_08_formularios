@@ -15,6 +15,7 @@
 for -> id y el name ->varible -->
 
     <fieldset>
+        <legend>Datos Básicos</legend>
         <label for="usuario">Usuario</label>
         <input type="text" name="" id="usuario"><br>
         <labe for="clave">Contraseña:</labe>
