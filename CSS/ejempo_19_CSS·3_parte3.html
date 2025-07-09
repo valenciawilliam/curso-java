@@ -4,11 +4,58 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FlexBox</title>
+<style>
+
+    /*flexbox: cajas flexibles
+    :nth-child -> hijo N de contenedor
+    :nth-of-type -> N tipo de elemento*/
+
+
+    p:nth-of-type(1){
+        background-color: rgb(28, 167, 77);
+    }
+
+
+    main p:nth-of-type(1){
+        background-color: rgb(0, 225, 255);
+    }
+
+footer {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+
+footer p{
+    border: 1px solid blue;
+    padding: 5px;
+}
+
+</style>
+
+
 </head>
 <body>
 
+<header>
+    <h1>Párrafo Cabecera</h1>
+</header>
+<main>
+    <p>Párrafo 1</p>
+    <p>Párrafo 2</p>
+    <p>Párrafo 3</p>
+    <p>Párrafo 4</p>
+</main>
     
-
+<footer>
+    
+    <p>Párrafo 1</p>
+    <p>Párrafo 2</p>
+    <p>Párrafo 3</p>
+    <p>Párrafo 4</p>
+    
+</footer>
 
 
     
