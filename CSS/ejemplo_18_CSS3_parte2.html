@@ -1,0 +1,61 @@
+<!-- ejemplo_18_transiciones y animaciones.html -->
+ <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transiciones y animaciones</title>
+
+<style>/* Trnasiciones y transformaciones (animaciones) */
+
+p{ 
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 1px solid blue;
+    width: 30%;
+    transform: scale(2);
+    transform: rotate(50deg);
+    transform: skew(20deg);
+    transform: translate(30px 20px);
+}
+
+p:hover{
+    transform: rotate(10deg);
+}
+
+button  {
+
+    margin-top: 100px;
+    background-color: aqua;
+    padding: 10px 20px;
+    box-shadow: 0px 4px 6px;
+    border-radius: 20px;
+    
+
+   
+
+}
+
+button:hover{
+
+    background-color: bisque;
+    transform: translateX(100px);
+    box-shadow: 5px 4px 6px blue ;
+
+     /* propiedades de la transicion */
+    transition-property: background-color, transform, box-shadow;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+
+
+}
+</style>
+
+</head>
+<body>
+    
+<p>parrafo de prueba</p>
+<button>Pulsa para ver la animación</button>
+
+</body>
+</html>
