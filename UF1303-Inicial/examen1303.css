@@ -1,0 +1,150 @@
+/* GENERALES */
+
+@font-face {
+    font-family: Monserrat;
+    src: url('Montserrat/Montserrat-VariableFont_wght.ttf');
+}
+
+body{
+    font-family: Montserrat;
+}
+/* ------- Lateal Izquierdo ------- */
+
+body > aside {
+    background: linear-gradient(to right, lightgrey, white)
+}
+
+/*0.4 */
+
+
+body > aside{
+        position: absolute;
+        width: 20%;
+        top: 2%;
+        left: 2%;
+
+}
+
+/* 0.5 */
+body > aside > img {
+
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+/* 0.6 */
+body > aside > ul{
+    list-style: none;
+    line-height: 1.12em;
+    font-size: 0.8em;
+    margin-left: -10px;
+    color: #0645AD;
+}
+
+/* 0.7 */
+
+body > aside > ul li:first-of-type {
+    text-shadow: blue 1px 1px 1px;
+}
+
+
+/* 0.8 */
+
+body > aside > ul > li + li {
+    text-indent: 10px;
+}
+
+
+
+/* 0.9 */
+body > aside > h2{
+    color: darkgrey;ç
+    font-size: 1.1em;
+    margin-left: 10px;
+    font-variant: small-caps;
+
+
+
+}
+
+
+
+
+/* --------------------------------------------------- */
+/* ------- PRINCIPAL ------- */
+
+
+/* 10 */
+main {
+    background-color: white;
+    position: absolute;
+    width: 70%;
+    top: 2%;
+    left: 25%;
+}
+
+
+/* 11 */
+
+
+
+/* --------------------------------------------------- */
+/* ------- SECCIÓN PRINCIPAL ------- */
+
+/* 14. */
+main > header form {
+    width: 50%;
+    float: left;
+
+}
+
+/* 17 */
+main > header form input[type="submit"]{
+    border: 1px solid blue;
+    margin-left: 5px;
+}
+
+
+/*  18 */
+main section figure img{
+    width: 90%; 
+}
+
+
+/* 19 */
+
+main section figure img:hover {
+
+    visibility: hidden;
+
+}
+
+/* 20 */
+main section{
+    width: 60%;
+    float: left;
+}
+/*21*/
+
+main aside {
+    float: right;
+    width: 35%;
+}
+
+
+
+/*--------------------------------------------------- */
+/* ------- LISTA MAIN ------- */
+
+/* --------------------------------------------------- */
+/* ------- TABLA MAIN ------- */
+tbody th, table td {
+    border: 2px solid rgb(12, 41, 75);
+}
+/* --------------------------------------------------- */
+/* ------- TABLA LATERAL --------*/
+
+/* --------------------------------------------------- */
+/* ------- PIE DE PÁGINA --------*/
+
